@@ -5,7 +5,7 @@ public class Collection {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Collection Prog.");
+		System.out.println("Collection Progs.");
 
 	}
 
