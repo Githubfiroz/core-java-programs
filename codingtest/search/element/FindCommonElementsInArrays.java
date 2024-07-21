@@ -2,7 +2,7 @@ package codingtest.search.element;
 
 import java.util.Arrays;
 
-public class CommonElementsInArrays {
+public class FindCommonElementsInArrays {
 
 	public static void main(String[] args) {
 

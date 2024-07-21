@@ -2,13 +2,13 @@ package codingtest.search.element;
 
 import java.util.Arrays;
 
-public class SearchRepeatedLettersInWord {
+public class FindDuplicateLetters {
 
 	public static void main(String[] args) {
 
 		//String word = "Firoz";
-		 String word = "Hello";
-		//String word = "Hello welcome to landon.";
+		// String word = "Hello";
+		String word = "Hello welcome to landon.";
 
 		SearchRepWord(word);
 	}
